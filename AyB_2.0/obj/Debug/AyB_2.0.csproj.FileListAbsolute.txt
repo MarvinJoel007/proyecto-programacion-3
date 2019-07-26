@@ -1,0 +1,2 @@
+c:\users\hp\documents\visual studio 2015\Projects\AyB_2.0\bin\Debug\AyB_2.0.exe.config
+E:\Documents\Visual Studio 2015\Projects\AyB_2.0\bin\Debug\AyB_2.0.exe.config

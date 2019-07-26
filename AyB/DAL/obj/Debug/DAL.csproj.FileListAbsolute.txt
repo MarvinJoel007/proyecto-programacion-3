@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\AyB\DAL\bin\Debug\DAL.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\AyB\DAL\bin\Debug\DAL.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\AyB\DAL\bin\Debug\Entity.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\AyB\DAL\bin\Debug\Entity.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\AyB\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\AyB\DAL\obj\Debug\DAL.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\AyB\DAL\obj\Debug\DAL.pdb
