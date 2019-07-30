@@ -23,6 +23,8 @@ namespace BLL
             string mensaje = registrar(datos);
             return mensaje;
         }
+ public void eliminar(int id) { pedidoDAO.eliminar(id); }
+        public Pedido leerPorId(int id) { return pedidoDAO.leerPorId(id); }
 
         public List<Pedido> listarTodos()
         {
