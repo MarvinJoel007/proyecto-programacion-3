@@ -24,6 +24,9 @@ public    class ProductoService
             string mensaje = registrar(datos);
             return mensaje;
         }
+     public void eliminar(int id) { productoDAO.eliminar(id); }
+        public Pedido leerPorId(int id) { return productoDAO.leerPorId(id); }
+
 
         public List<Producto> listarTodos()
         {
